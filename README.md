@@ -1,9 +1,9 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com 6973538946">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com Επισκευές έκτακτης ανάγκης τηλ. 6973538946  ">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος 6973538946">
+  <meta name="author" content="Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος τηλ. 6973538946  ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
@@ -99,8 +99,7 @@ Email damouelectrician@gmail.com
 <h2>Επισκευές έκτακτης ανάγκης </h2><br>
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.<br>
 
-<h2>Επισκευές έκτακτης ανάγκης </h2><br>
-Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.<br><br>
+
 <img src="image2.jpg" alt="Gerasimos Damoulianos">
 
 <h2>Projects</h2>
