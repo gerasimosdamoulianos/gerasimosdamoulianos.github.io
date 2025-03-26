@@ -5,16 +5,18 @@
   <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="author" content="Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
 body {
   background-image: url("image6.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-}
-</head>
-<style>
-
+} 
 </style>
+</head>
+
+
+
 <h1>Gerasimos Damoulianos Electrical Applications Stay Grounded </h1>
 <br>
 <h2>
