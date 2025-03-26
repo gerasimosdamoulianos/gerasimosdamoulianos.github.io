@@ -1,9 +1,9 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος ">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος ">
+  <meta name="author" content="Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <h1>Gerasimos Damoulianos Electrical Applications Stay Grounded </h1>
