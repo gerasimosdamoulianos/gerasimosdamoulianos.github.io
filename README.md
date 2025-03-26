@@ -6,7 +6,7 @@
   <meta name="author" content="Gerasimos Damoulianos Electrical Applications">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-Gerasimos Damoulianos Electrical Applications Stay Grounded 
+<h1>Gerasimos Damoulianos Electrical Applications Stay Grounded </h1>
 <br>
 Gerasimos Damoulianos is a reputable electrical services provider based in Mykonos.
 With a strong foundation since its establishment, our team is dedicated to delivering high-quality 
@@ -64,7 +64,6 @@ In unforeseen circumstances, our team is ready to provide prompt and effective e
 <br>
 Εμπορικές Ηλεκτρολογικές Υπηρεσίες
 Ειδικευόμαστε στην κάλυψη των ηλεκτρολογικών αναγκών των επιχειρήσεων, παρέχοντας αξιόπιστες λύσεις για νέες εγκαταστάσεις, αναβαθμίσεις και συντήρηση. Η εστίασή μας στην αποτελεσματικότητα και την ποιότητα διασφαλίζει ότι η εμπορική σας ιδιοκτησία λειτουργεί ομαλά και με ασφάλεια.
-
 <br>
 Επισκευές έκτακτης ανάγκης
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.
