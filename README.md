@@ -17,7 +17,8 @@ in every project. Contact us today to discover more about our services.</h2>
 <h3> Based in Mykonos Island 
 Tel.6973538946
 <br>
-Email damouelectrician@gmail.com
+Email damouelectrician@gmail.com<br>
+<a href="mailto:damouelectrician@gmail.com">Αποστολή email</a><br>
 </h3>
 <img src="image3.jpg" alt="Gerasimos Damoulianos">
 <br>
@@ -56,7 +57,7 @@ In unforeseen circumstances, our team is ready to provide prompt and effective e
 <br>
 Email damouelectrician@gmail.com
 <br>
-<a href="mailto:damouelectrician@gmail.com">Αποστολή email</a>
+<a href="mailto:damouelectrician@gmail.com">Αποστολή email</a><br>
 </h3>
 <img src="image1.jpg" alt="Gerasimos Damoulianos">
 <br><br>
