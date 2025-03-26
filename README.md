@@ -30,8 +30,13 @@ Our team is dedicated to providing top-notch electrical installations for your h
 <br>
 <h2>Security Systems<br></h2>
 We excel in designing and installing customized security systems to protect your property. Our technicians are trained to assess your security needs and implement solutions that offer reliable protection, giving you confidence in the safety of your premises.
+<<<<<<< HEAD
 <img src="image4.jpg" alt="Gerasimos Damoulianos"><br>
 <h2>Grounding and Protection<br></h2>
+=======
+<img src="image4.jpg" alt="Gerasimos Damoulianos"><br><br>
+<h2>Grounding and Protection<br><\h2>
+>>>>>>> b9dccecd9141a764ead363be423780768c8197ac
 Ensuring the proper grounding and protection of your electrical systems is crucial for safety and functionality. Our skilled electricians are proficient in implementing grounding solutions and protective measures to safeguard your property against electrical hazards.
 <br>
 <h2>Lighting Solutions<br></h2>
@@ -58,9 +63,15 @@ Email damouelectrician@gmail.com
 <br><br><br><br><br>
 <h2>Οι υπηρεσίες μας <br></h2>
 Ο Γεράσιμος Δαμουλιανός προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οιειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
+
 <br>
 <h2>Ηλεκτρολόγος
 Ηλεκτρολογικές Εγκαταστάσεις </h2><br>
+=======
+<br><br>
+<h2>Ηλεκτρολόγος - 
+Ηλεκτρολογικές Εγκαταστάσεις </h2><br>
+
 Η ομάδα μας είναι αφοσιωμένη στην παροχή κορυφαίων ηλεκτρικών εγκαταστάσεων για το σπίτι ή την επιχείρησή σας. Είτε πρόκειται για καλωδιώσεις, φωτισμό ή συστήματα ασφαλείας, εγγυόμαστε την ποιότητα κατασκευής και την τήρηση των προτύπων ασφαλείας, διασφαλίζοντας την ηρεμία σας.
 <br>
 <h2>Συστήματα Ασφαλείας </h2><br>
@@ -75,6 +86,12 @@ Email damouelectrician@gmail.com
 <h2>Εμπορικές Ηλεκτρολογικές Υπηρεσίες </h2><br>
 Ειδικευόμαστε στην κάλυψη των ηλεκτρολογικών αναγκών των επιχειρήσεων, παρέχοντας αξιόπιστες λύσεις για νέες εγκαταστάσεις, αναβαθμίσεις και συντήρηση. Η εστίασή μας στην αποτελεσματικότητα και την ποιότητα διασφαλίζει ότι η εμπορική σας ιδιοκτησία λειτουργεί ομαλά και με ασφάλεια.
 <br>
+<<<<<<< HEAD
 <h2>Επισκευές έκτακτης ανάγκης </h2><br>
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.<br>
 <img src="image2.jpg" alt="Gerasimos Damoulianos">
+=======
+<h2>Επισκευές έκτακτης ανάγκης </h2><br>
+Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.
+<img src="image2.jpg" alt="Gerasimos Damoulianos">
+>>>>>>> b9dccecd9141a764ead363be423780768c8197ac
