@@ -1,17 +1,18 @@
-<!--# gerasimosdamoulianos.github.io -->
+<!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Gerasimos Damoulianos Electrical Applications">
+  <meta name="author" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <h1>Gerasimos Damoulianos Electrical Applications Stay Grounded </h1>
 <br>
+<h2>
 Gerasimos Damoulianos is a reputable electrical services provider based in Mykonos.
 With a strong foundation since its establishment, our team is dedicated to delivering high-quality 
 electrical solutions to our clients. We prioritize customer satisfaction and strive to exceed expectations 
-in every project. Contact us today to discover more about our services.
+in every project. Contact us today to discover more about our services.</h2/
 <br>
 Based in Mykonos Island 
 Tel.6973538946
@@ -42,11 +43,12 @@ Emergency Repairs
 In unforeseen circumstances, our team is ready to provide prompt and effective emergency electrical repairs. We understand the urgency of restoring power and safety, and our responsive service is designed to address your electrical emergencies with utmost professionalism.
 <br><br><br><br>
 <h1>Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Stay Grounded </h1>
-
+<h2>
 Ο Γεράσιμος Δαμουλιανός είναι ένας αξιόπιστος πάροχος ηλεκτρολογικών υπηρεσιών με έδρα τη Μύκονο.
 Με ισχυρά θεμέλια από την ίδρυσή της, η ομάδα μας είναι αφοσιωμένη στην παροχή υψηλής ποιότητας 
 ηλεκτρολογικές λύσεις στους πελάτες μας. Δίνουμε προτεραιότητα στην ικανοποίηση των πελατών και προσπαθούμε να υπερβούμε τις προσδοκίες 
 σε κάθε έργο. Επικοινωνήστε μαζί μας σήμερα για να μάθετε περισσότερα για τις υπηρεσίες μας.
+</h2>
 <br>
 Οι υπηρεσίες μας
 Ο Γεράσιμος Δαμουλιανός προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οι ειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
