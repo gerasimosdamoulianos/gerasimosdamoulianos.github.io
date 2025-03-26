@@ -19,7 +19,7 @@ Tel.6973538946
 <br>
 Email damouelectrician@gmail.com
 </h3>
-
+<img src="image3.jpg" alt="Gerasimos Damoulianos">
 <br>
 Our Services
 Gerasimos Damoulianos offers a comprehensive range of electrical services to meet your residential and commercial needs. Our expert electricians specialize in new installations, upgrades, diagnosis, and repair of electrical faults. We ensure safe and efficient processes, restoring your electrical systems to optimal working condition.
@@ -30,7 +30,7 @@ Our team is dedicated to providing top-notch electrical installations for your h
 <br>
 Security Systems
 We excel in designing and installing customized security systems to protect your property. Our technicians are trained to assess your security needs and implement solutions that offer reliable protection, giving you confidence in the safety of your premises.
-<br>
+<img src="image4.jpg" alt="Gerasimos Damoulianos"><br>
 Grounding and Protection
 Ensuring the proper grounding and protection of your electrical systems is crucial for safety and functionality. Our skilled electricians are proficient in implementing grounding solutions and protective measures to safeguard your property against electrical hazards.
 <br>
@@ -77,3 +77,4 @@ Email damouelectrician@gmail.com
 <br>
 Επισκευές έκτακτης ανάγκης <br>
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.
+<img src="image2.jpg" alt="Gerasimos Damoulianos">
