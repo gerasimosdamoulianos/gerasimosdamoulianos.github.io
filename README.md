@@ -93,5 +93,5 @@ Email damouelectrician@gmail.com
 <img src="image2.jpg" alt="Gerasimos Damoulianos">
 
 <h2>Projects</h2>
-<p><a href="images1.jpg">Φωτογραφίες από έργα που υλοποίηθηκαν</a></p>
+<p><a href="image1.jpg">Φωτογραφίες από έργα που υλοποίηθηκαν</a></p>
 
