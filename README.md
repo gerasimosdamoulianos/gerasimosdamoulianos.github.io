@@ -1,7 +1,7 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com ">
   <meta name="keywords" content="HTML, CSS, JavaScript">
   <meta name="author" content="Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +16,7 @@ in every project. Contact us today to discover more about our services.</h2>
 <br>
 <h3> Based in Mykonos Island 
 Tel.6973538946
+<p><a href="tel:6973538946">6973538946</a></p>
 <br>
 Email damouelectrician@gmail.com<br>
 <a href="mailto:damouelectrician@gmail.com">Αποστολή email</a><br>
@@ -55,6 +56,7 @@ In unforeseen circumstances, our team is ready to provide prompt and effective e
 </h2>
 <h3> Μύκονος Tel.6973538946
 <br>
+<p><a href="tel:6973538946">6973538946</a></p><br>
 Email damouelectrician@gmail.com
 <br>
 <a href="mailto:damouelectrician@gmail.com">Αποστολή email</a><br>
