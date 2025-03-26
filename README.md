@@ -35,7 +35,7 @@ We excel in designing and installing customized security systems to protect your
 <h2>Grounding and Protection<br></h2>
 =======
 <img src="image4.jpg" alt="Gerasimos Damoulianos"><br><br>
-<h2>Grounding and Protection<br><\h2>
+<h2>Grounding and Protection<br></h2>
 >>>>>>> b9dccecd9141a764ead363be423780768c8197ac
 Ensuring the proper grounding and protection of your electrical systems is crucial for safety and functionality. Our skilled electricians are proficient in implementing grounding solutions and protective measures to safeguard your property against electrical hazards.
 <br>
@@ -90,8 +90,8 @@ Email damouelectrician@gmail.com
 <h2>Επισκευές έκτακτης ανάγκης </h2><br>
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.<br>
 <img src="image2.jpg" alt="Gerasimos Damoulianos">
-=======
+
 <h2>Επισκευές έκτακτης ανάγκης </h2><br>
 Σε απρόβλεπτες περιστάσεις, η ομάδα μας είναι έτοιμη να παρέχει άμεσες και αποτελεσματικές επισκευές έκτακτης ανάγκης ηλεκτρικού ρεύματος. Κατανοούμε την επείγουσα ανάγκη αποκατάστασης ισχύος και ασφάλειας και η ανταποκρινόμενη υπηρεσία μας έχει σχεδιαστεί για να αντιμετωπίζει τις ηλεκτρολογικές καταστάσεις έκτακτης ανάγκης σας με τον μέγιστο επαγγελματισμό.
 <img src="image2.jpg" alt="Gerasimos Damoulianos">
->>>>>>> b9dccecd9141a764ead363be423780768c8197ac
+
