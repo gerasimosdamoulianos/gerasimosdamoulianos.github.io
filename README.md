@@ -55,6 +55,8 @@ In unforeseen circumstances, our team is ready to provide prompt and effective e
 <h3> Μύκονος Tel.6973538946
 <br>
 Email damouelectrician@gmail.com
+<br>
+<a href="mailto:damouelectrician@gmail.com">Αποστολή email</a>
 </h3>
 <img src="image1.jpg" alt="Gerasimos Damoulianos">
 <br><br>
