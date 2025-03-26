@@ -4,6 +4,9 @@ With a strong foundation since its establishment, our team is dedicated to deliv
 electrical solutions to our clients. We prioritize customer satisfaction and strive to exceed expectations 
 in every project. Contact us today to discover more about our services.
 
+Tel.6973538946
+Email damouelectrician@gmail.com
+
 Ο Γεράσιμος Δαμουλιανός είναι ένας αξιόπιστος πάροχος ηλεκτρολογικών υπηρεσιών με έδρα τη Μύκονο.
 Με ισχυρά θεμέλια από την ίδρυσή της, η ομάδα μας είναι αφοσιωμένη στην παροχή υψηλής ποιότητας 
 ηλεκτρολογικές λύσεις στους πελάτες μας. Δίνουμε προτεραιότητα στην ικανοποίηση των πελατών και προσπαθούμε να υπερβούμε τις προσδοκίες 
