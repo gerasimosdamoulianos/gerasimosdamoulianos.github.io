@@ -41,6 +41,8 @@ We specialize in catering to the electrical needs of businesses, delivering reli
 Emergency Repairs
 In unforeseen circumstances, our team is ready to provide prompt and effective emergency electrical repairs. We understand the urgency of restoring power and safety, and our responsive service is designed to address your electrical emergencies with utmost professionalism.
 <br><br><br><br>
+<h1>Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Stay Grounded </h1>
+
 Ο Γεράσιμος Δαμουλιανός είναι ένας αξιόπιστος πάροχος ηλεκτρολογικών υπηρεσιών με έδρα τη Μύκονο.
 Με ισχυρά θεμέλια από την ίδρυσή της, η ομάδα μας είναι αφοσιωμένη στην παροχή υψηλής ποιότητας 
 ηλεκτρολογικές λύσεις στους πελάτες μας. Δίνουμε προτεραιότητα στην ικανοποίηση των πελατών και προσπαθούμε να υπερβούμε τις προσδοκίες 
