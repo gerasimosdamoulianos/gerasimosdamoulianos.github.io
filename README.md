@@ -1,9 +1,9 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος ">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές">
+  <meta name="author" content="Gerasimos Damoulianos Electrical Applications Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <h1>Gerasimos Damoulianos Electrical Applications Stay Grounded </h1>
@@ -14,10 +14,11 @@ With a strong foundation since its establishment, our team is dedicated to deliv
 electrical solutions to our clients. We prioritize customer satisfaction and strive to exceed expectations 
 in every project. Contact us today to discover more about our services.</h2>
 <br>
-Based in Mykonos Island 
+<h3> Based in Mykonos Island 
 Tel.6973538946
 <br>
 Email damouelectrician@gmail.com
+</h3>
 
 <br>
 Our Services
@@ -49,6 +50,10 @@ In unforeseen circumstances, our team is ready to provide prompt and effective e
 ηλεκτρολογικές λύσεις στους πελάτες μας. Δίνουμε προτεραιότητα στην ικανοποίηση των πελατών και προσπαθούμε να υπερβούμε τις προσδοκίες 
 σε κάθε έργο. Επικοινωνήστε μαζί μας σήμερα για να μάθετε περισσότερα για τις υπηρεσίες μας.
 </h2>
+<h3> Μύκονος Tel.6973538946
+<br>
+Email damouelectrician@gmail.com
+</h3>
 <br>
 Οι υπηρεσίες μας
 Ο Γεράσιμος Δαμουλιανός προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οι ειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
