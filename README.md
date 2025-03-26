@@ -1,9 +1,9 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com ">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com ">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
+  <meta name="author" content="Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
@@ -58,9 +58,9 @@ We specialize in catering to the electrical needs of businesses, delivering reli
 <h2>Emergency Repairs<br></h2>
 In unforeseen circumstances, our team is ready to provide prompt and effective emergency electrical repairs. We understand the urgency of restoring power and safety, and our responsive service is designed to address your electrical emergencies with utmost professionalism.
 <br><br><br><br>
-<h1>Γεράσιμος Δαμουλιανός Ηλεκτρολογικές Εφαρμογές Stay Grounded </h1>
+<h1>Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Stay Grounded </h1>
 <h2>
-Ο Γεράσιμος Δαμουλιανός είναι ένας αξιόπιστος πάροχος ηλεκτρολογικών υπηρεσιών με έδρα τη Μύκονο.
+Ο Γεράσιμος Δαμουλιάνος είναι ένας αξιόπιστος πάροχος ηλεκτρολογικών υπηρεσιών με έδρα τη Μύκονο.
 Με ισχυρά θεμέλια από την ίδρυσή της, η ομάδα μας είναι αφοσιωμένη στην παροχή υψηλής ποιότητας 
 ηλεκτρολογικές λύσεις στους πελάτες μας. Δίνουμε προτεραιότητα στην ικανοποίηση των πελατών και προσπαθούμε να υπερβούμε τις προσδοκίες 
 σε κάθε έργο. Επικοινωνήστε μαζί μας σήμερα για να μάθετε περισσότερα για τις υπηρεσίες μας.
@@ -75,7 +75,7 @@ Email damouelectrician@gmail.com
 <img src="image1.jpg" alt="Gerasimos Damoulianos">
 <br><br>
 <h2>Οι υπηρεσίες μας <br> </h2>
-Ο Γεράσιμος Δαμουλιανός προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οιειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
+Ο Γεράσιμος Δαμουλιάνος προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οιειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
 
 <br><br>
 <h2>Ηλεκτρολόγος - 
