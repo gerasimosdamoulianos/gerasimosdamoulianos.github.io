@@ -30,7 +30,7 @@ Our team is dedicated to providing top-notch electrical installations for your h
 <br>
 <h2>Security Systems<br><\h2>
 We excel in designing and installing customized security systems to protect your property. Our technicians are trained to assess your security needs and implement solutions that offer reliable protection, giving you confidence in the safety of your premises.
-<img src="image4.jpg" alt="Gerasimos Damoulianos"><br>
+<img src="image4.jpg" alt="Gerasimos Damoulianos"><br><br>
 <h2>Grounding and Protection<br><\h2>
 Ensuring the proper grounding and protection of your electrical systems is crucial for safety and functionality. Our skilled electricians are proficient in implementing grounding solutions and protective measures to safeguard your property against electrical hazards.
 <br>
@@ -58,8 +58,8 @@ Email damouelectrician@gmail.com
 <br><br><br><br><br>
 <h2>Οι υπηρεσίες μας <br></h2>
 Ο Γεράσιμος Δαμουλιανός προσφέρει μια ολοκληρωμένη σειρά ηλεκτρολογικών υπηρεσιών για να καλύψει τις οικιακές και εμπορικές σας ανάγκες. Οιειδικοί ηλεκτρολόγοι μας ειδικεύονται σε νέες εγκαταστάσεις, αναβαθμίσεις, διάγνωση και επισκευή ηλεκτρικών βλαβών. Εξασφαλίζουμε ασφαλείς και αποτελεσματικές διαδικασίες, επαναφέροντας τα ηλεκτρικά σας συστήματα στη βέλτιστη κατάσταση λειτουργίας.
-<br>
-<h2>Ηλεκτρολόγος
+<br><br>
+<h2>Ηλεκτρολόγος - 
 Ηλεκτρολογικές Εγκαταστάσεις <\h2><br>
 Η ομάδα μας είναι αφοσιωμένη στην παροχή κορυφαίων ηλεκτρικών εγκαταστάσεων για το σπίτι ή την επιχείρησή σας. Είτε πρόκειται για καλωδιώσεις, φωτισμό ή συστήματα ασφαλείας, εγγυόμαστε την ποιότητα κατασκευής και την τήρηση των προτύπων ασφαλείας, διασφαλίζοντας την ηρεμία σας.
 <br>
