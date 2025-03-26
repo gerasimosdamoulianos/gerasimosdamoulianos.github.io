@@ -33,7 +33,6 @@ We excel in designing and installing customized security systems to protect your
 
 <img src="image4.jpg" alt="Gerasimos Damoulianos"><br><br>
 
-
 <h2>Grounding and Protection<br></h2>
 Ensuring the proper grounding and protection of your electrical systems is crucial for safety and functionality. Our skilled electricians are proficient in implementing grounding solutions and protective measures to safeguard your property against electrical hazards.
 <br>
