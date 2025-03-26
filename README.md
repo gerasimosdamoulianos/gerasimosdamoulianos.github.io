@@ -1,9 +1,9 @@
 <!-- # gerasimosdamoulianos.github.io -->
 <head>
   <meta charset="UTF-8">
-  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com ">
+  <meta name="description" content="Gerasimos Damoulianos Electrical Applications Mykonos Island Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Μύκονος εγκατάσταση εξατομικευμένων συστημάτων ασφαλείας damouelectrician@gmail.com 6973538946">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="author" content="Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος ">
+  <meta name="author" content="Γεράσιμος Δαμουλιάνος Ηλεκτρολογικές Εφαρμογές Gerasimos Damoulianos Electrical Applications Μύκονος 6973538946">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
